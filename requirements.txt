@@ -1,3 +1,4 @@
 streamlit
 pandas
 openpyxl
+# python -m streamlit run app1.py
